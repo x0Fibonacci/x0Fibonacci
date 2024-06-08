@@ -1,6 +1,6 @@
 # ⚡ Rust developer <p>
 ## [Публикации](https://teletype.in/@x0fibonacci) : <p>
-## Репозитории: <p>
+## [Репозитории](https://github.com/x0Fibonacci?tab=repositories): <p>
 [CLI TRON API](https://github.com/x0Fibonacci/tronapi) <p>
 <!---
 x0Fibonacci/x0Fibonacci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
