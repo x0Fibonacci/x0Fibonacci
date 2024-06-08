@@ -1,4 +1,4 @@
- ⚡ Rust developer </br>
+#⚡ Rust developer <p>
 [Публикации](https://teletype.in/@x0fibonacci) <p>
  [CLI TRON API](https://github.com/x0Fibonacci/tronapi)
 <!---
