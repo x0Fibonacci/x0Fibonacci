@@ -1,4 +1,4 @@
-# ⚡ Rust developer <p>
+# ⚡ Go/Rust developer <p>
 ## [Публикации](https://teletype.in/@x0fibonacci) : <p>
 ## [Репозитории](https://github.com/x0Fibonacci?tab=repositories): <p>
 [TRON API](https://github.com/x0Fibonacci/) - консольный клиент для работы с сетью TRON <p>
