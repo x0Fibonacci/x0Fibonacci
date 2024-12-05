@@ -1,4 +1,4 @@
-# ⚡ Go/Rust developer <p>
+# ⚡ C developer <p>
 #### [Мои публикации teletype.in/@x0fibonacci](https://teletype.in/@x0fibonacci) <p>
 #### [Мои репозитории](#) <p>
 
