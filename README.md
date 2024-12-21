@@ -1,5 +1,5 @@
 # ⚡ C developer <p>
-#### [Мои публикации teletype.in/@x0fibonacci](https://teletype.in/@x0fibonacci) <p>
+#### [Мои публикации](#) <p>
 #### [Мои репозитории](#) <p>
 
 <!---
